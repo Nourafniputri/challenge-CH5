@@ -1,0 +1,27 @@
+{
+  "name": "challenge_ch5",
+  "version": "1.0.0",
+  "description": "Challenge chapter 5",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nourafniputri/challenge-CH5.git"
+  },
+  "author": "Afni",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Nourafniputri/challenge-CH5/issues"
+  },
+  "homepage": "https://github.com/Nourafniputri/challenge-CH5#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
